@@ -1,0 +1,22 @@
+.form-control {
+    width: 95%;
+}
+
+h1 {
+    font-size: 180px;
+    text-align: center;
+}
+
+table, th {
+    text-align: center;
+}
+
+#train-table {
+    width: 95%;
+}
+
+.jumbotron{
+    background-color: black;
+    color: white;
+}
+
